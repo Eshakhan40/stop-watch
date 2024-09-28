@@ -1,0 +1,14 @@
+.digit{
+    font-size: 150px;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+}
+h1{
+    font-size: 100px;
+}
+.card{
+    background-color: paleturquoise;
+    border-radius: 40%;
+}
